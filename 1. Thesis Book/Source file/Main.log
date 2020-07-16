@@ -1,0 +1,1218 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.10)  15 NOV 2018 01:48
+entering extended mode
+**./Main.tex
+(Main.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen113
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count103
+\multirow@dima=\skip47
+\bigstrutjot=\dimen122
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box28
+\multicol@leftmargin=\dimen123
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen124
+\page@free=\dimen125
+\premulticols=\dimen126
+\postmulticols=\dimen127
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen128
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen129
+\multicolovershoot=\dimen130
+\multicolundershoot=\dimen131
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tex-gyre\tgpagella.sty"
+Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen132
+\ttl@minus=\dimen133
+\ttl@toksa=\toks21
+\titlewidth=\dimen134
+\titlewidthlast=\dimen135
+\titlewidthfirst=\dimen136
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks23
+\float@box=\box55
+\@float@everytoks=\toks24
+\@floatcapt=\box56
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tex-gyre\t1qpl.fd"
+File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathabx\mathabx.sty"
+Package: mathabx 2003/07/29 v0.0 Non-standard LaTeX package mathabx
+\symmatha=\mathgroup4
+\symmathb=\mathgroup5
+\symmathx=\mathgroup6
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\mathabx\mathabx.dcl"
+LaTeX Font Info:    Redeclaring math symbol \cdotp on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \times on input line 33.
+LaTeX Font Info:    Redeclaring math symbol \div on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \cdot on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \circ on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \ast on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \pm on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mp on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \diamond on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \bullet on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \star on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \amalg on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \equiv on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \sim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \approx on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \simeq on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \asymp on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \neg on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \ll on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \gg on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \vdash on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \dashv on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \flat on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \natural on input line 159.
+LaTeX Font Info:    Redeclaring math symbol \sharp on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \infty on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \propto on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \smile on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \frown on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \forall on input line 279.
+LaTeX Font Info:    Redeclaring math symbol \partial on input line 281.
+LaTeX Font Info:    Redeclaring math symbol \exists on input line 284.
+LaTeX Font Info:    Redeclaring math symbol \emptyset on input line 288.
+LaTeX Font Info:    Redeclaring math symbol \top on input line 290.
+LaTeX Font Info:    Redeclaring math symbol \bot on input line 291.
+LaTeX Font Info:    Redeclaring math symbol \perp on input line 292.
+LaTeX Font Info:    Redeclaring math symbol \in on input line 299.
+LaTeX Font Info:    Redeclaring math symbol \owns on input line 300.
+LaTeX Font Info:    Redeclaring math symbol \cap on input line 312.
+LaTeX Font Info:    Redeclaring math symbol \cup on input line 313.
+LaTeX Font Info:    Redeclaring math symbol \uplus on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \sqcap on input line 315.
+LaTeX Font Info:    Redeclaring math symbol \sqcup on input line 316.
+LaTeX Font Info:    Redeclaring math symbol \wedge on input line 318.
+LaTeX Font Info:    Redeclaring math symbol \vee on input line 320.
+LaTeX Font Info:    Redeclaring math symbol \subset on input line 344.
+LaTeX Font Info:    Redeclaring math symbol \supset on input line 345.
+LaTeX Font Info:    Redeclaring math symbol \subseteq on input line 348.
+LaTeX Font Info:    Redeclaring math symbol \supseteq on input line 349.
+LaTeX Font Info:    Redeclaring math symbol \sqsubseteq on input line 380.
+LaTeX Font Info:    Redeclaring math symbol \sqsupseteq on input line 381.
+LaTeX Font Info:    Redeclaring math symbol \triangleleft on input line 407.
+LaTeX Font Info:    Redeclaring math symbol \triangleright on input line 409.
+LaTeX Font Info:    Redeclaring math symbol \leq on input line 439.
+LaTeX Font Info:    Redeclaring math symbol \geq on input line 441.
+LaTeX Font Info:    Redeclaring math symbol \prec on input line 498.
+LaTeX Font Info:    Redeclaring math symbol \succ on input line 499.
+LaTeX Font Info:    Redeclaring math symbol \preceq on input line 506.
+LaTeX Font Info:    Redeclaring math symbol \succeq on input line 507.
+LaTeX Font Info:    Redeclaring math symbol \leftarrow on input line 540.
+LaTeX Font Info:    Redeclaring math symbol \rightarrow on input line 542.
+LaTeX Font Info:    Redeclaring math symbol \nwarrow on input line 546.
+LaTeX Font Info:    Redeclaring math symbol \nearrow on input line 547.
+LaTeX Font Info:    Redeclaring math symbol \swarrow on input line 548.
+LaTeX Font Info:    Redeclaring math symbol \searrow on input line 549.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 550.
+LaTeX Font Info:    Redeclaring math symbol \mapstochar on input line 557.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoonup on input line 560.
+LaTeX Font Info:    Redeclaring math symbol \rightharpoonup on input line 561.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoondown on input line 562.
+
+LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 563
+.
+LaTeX Font Info:    Redeclaring math symbol \Leftarrow on input line 575.
+LaTeX Font Info:    Redeclaring math symbol \Rightarrow on input line 576.
+LaTeX Font Info:    Redeclaring math symbol \Leftrightarrow on input line 579.
+LaTeX Font Info:    Redeclaring math symbol \rhook on input line 612.
+LaTeX Font Info:    Redeclaring math symbol \lhook on input line 613.
+LaTeX Font Info:    Redeclaring math symbol \oplus on input line 658.
+LaTeX Font Info:    Redeclaring math symbol \ominus on input line 659.
+LaTeX Font Info:    Redeclaring math symbol \otimes on input line 661.
+LaTeX Font Info:    Redeclaring math symbol \odot on input line 663.
+LaTeX Font Info:    Redeclaring math symbol \oslash on input line 675.
+\mayacnter=\count114
+\mayacnta=\count115
+\mayacntb=\count116
+\mayacntc=\count117
+\mayawidth=\dimen137
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 753.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 760.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 842.
+LaTeX Info: Redefining \{ on input line 846.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 848.
+LaTeX Info: Redefining \} on input line 852.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 858.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 859.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 863.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 865.
+LaTeX Font Info:    Redeclaring math delimiter \uparrow on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \downarrow on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \Uparrow on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 872.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 873.
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 880.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 881.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 882.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 883.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 884.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 885.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 903.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 905.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 907.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 909.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 944.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 946.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count118
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip52
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count119
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\relsize\relsize.sty"
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip53
+\skiplinenumber=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen138
+\inoutsize=\dimen139
+\inoutindent=\dimen140
+\interspacetitleruled=\dimen141
+\interspacealgoruled=\dimen142
+\interspacetitleboxruled=\dimen143
+\algocf@ruledwidth=\skip61
+\algocf@inoutbox=\box57
+\algocf@inputbox=\box58
+\AlCapSkip=\skip62
+\AlCapHSkip=\skip63
+\algoskipindent=\skip64
+\algocf@nlbox=\box59
+\algocf@hangingbox=\box60
+\algocf@untilbox=\box61
+\algocf@skipuntil=\skip65
+\algocf@capbox=\box62
+\algocf@lcaptionbox=\skip66
+\algoheightruledefault=\skip67
+\algoheightrule=\skip68
+\algotitleheightruledefault=\skip69
+\algotitleheightrule=\skip70
+\c@algocfline=\count120
+\c@algocfproc=\count121
+\c@algocf=\count122
+\algocf@algoframe=\box63
+\algocf@algobox=\box64
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\chngcntr\chngcntr.sty"
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count123
+\lst@gtempboxa=\box65
+\lst@token=\toks25
+\lst@length=\count124
+\lst@currlwidth=\dimen144
+\lst@column=\count125
+\lst@pos=\count126
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count127
+\lst@lineno=\count128
+\lst@maxwidth=\dimen147
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count129
+\lst@skipnumbers=\count130
+\lst@framebox=\box66
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (Main.aux
+
+LaTeX Warning: Label `sec:sec01' multiply defined.
+
+)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 42.67912pt
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 410.28877pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=410.28877pt
+* \textheight=700.50687pt
+* \oddsidemargin=42.67912pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen148
+\scratchbox=\box67
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen149
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count137
+<images/1.png, id=1, 150.5625pt x 246.9225pt>
+File: images/1.png Graphic file (type png)
+<use images/1.png>
+Package pdftex.def Info: images/1.png  used on input line 63.
+(pdftex.def)             Requested size: 105.39302pt x 172.84456pt.
+ [1
+
+{C:/Users/Shahriar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images
+/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+[2] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 142--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--155
+
+ []
+
+[2] (Main.toc [3]
+Overfull \hbox (0.85143pt too wide) in paragraph at lines 37--37
+ [][] []\T1/qpl/m/n/12 Step 4: Sign, Mag-ni-tude, Di-rec-tion and Cen-ter codes
+ gen- 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `Main.toc'.
+
+ [4] (Main.lof
+Overfull \hbox (5.65497pt too wide) in paragraph at lines 2--2
+ [][] []\T1/qpl/m/n/12 Different fa-cial ex-pres-sions from - (a) CK+ dataset a
+nd (b) JAFFE 
+ []
+
+
+Overfull \hbox (2.59497pt too wide) in paragraph at lines 6--6
+ [][] []\T1/qpl/m/n/12 Schematic di-a-gram of macro-scopic tex-tu-ral struc-tur
+e that is quite 
+ []
+
+[5])
+\tf@lof=\write4
+\openout4 = `Main.lof'.
+
+ [6] (Main.lot)
+\tf@lot=\write5
+\openout5 = `Main.lot'.
+
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+<images/Pattern_Recognition_Framework.png, id=39, 970.3753pt x 248.42813pt>
+File: images/Pattern_Recognition_Framework.png Graphic file (type png)
+<use images/Pattern_Recognition_Framework.png>
+Package pdftex.def Info: images/Pattern_Recognition_Framework.png  used on inpu
+t line 175.
+(pdftex.def)             Requested size: 410.28877pt x 105.04037pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--180
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--185
+
+ []
+
+[1]
+<images/CKp_JAFFE.png, id=43, 578.90504pt x 177.32227pt>
+File: images/CKp_JAFFE.png Graphic file (type png)
+<use images/CKp_JAFFE.png>
+Package pdftex.def Info: images/CKp_JAFFE.png  used on input line 195.
+(pdftex.def)             Requested size: 410.28877pt x 125.67781pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--200
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./images/Pattern_Recognition_Framework.png>]
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 209.
+
+LaTeX Font Info:    No file OMSqpl.fd. on input line 209.
+
+
+LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 209.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--221
+
+ []
+
+[3 <./images/CKp_JAFFE.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Overfull \hbox (4.70119pt too wide) in paragraph at lines 228--229
+\T1/qpl/m/n/12 color and tex-ture. So a neat, ro-bust, dis-tinc-tive and ef-fec
+-tive de-scrip-tor is needed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Overfull \hbox (9.18285pt too wide) in paragraph at lines 245--247
+\T1/qpl/m/n/12 method which we are call-ing Adap-tive Ro-bust Lo-cal Com-plete 
+Pat-tern (ARLCP).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 249--252
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--287
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 289--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--314
+
+ []
+
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+
+ []
+
+[9]
+<images/differentRadius.png, id=71, 699.36281pt x 179.16937pt>
+File: images/differentRadius.png Graphic file (type png)
+<use images/differentRadius.png>
+Package pdftex.def Info: images/differentRadius.png  used on input line 366.
+(pdftex.def)             Requested size: 410.28877pt x 105.11302pt.
+<images/lbp_codes.png, id=72, 532.99126pt x 94.10156pt>
+File: images/lbp_codes.png Graphic file (type png)
+<use images/lbp_codes.png>
+Package pdftex.def Info: images/lbp_codes.png  used on input line 385.
+(pdftex.def)             Requested size: 328.23227pt x 57.9518pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+<images/lbc_new.png, id=73, 649.67719pt x 167.87718pt>
+File: images/lbc_new.png Graphic file (type png)
+<use images/lbc_new.png>
+Package pdftex.def Info: images/lbc_new.png  used on input line 402.
+(pdftex.def)             Requested size: 328.23227pt x 84.817pt.
+[10 <./images/differentRadius.png> <./images/lbp_codes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--421
+
+ []
+
+<images/lbc02.png, id=85, 137.01187pt x 145.29282pt>
+File: images/lbc02.png Graphic file (type png)
+<use images/lbc02.png>
+Package pdftex.def Info: images/lbc02.png  used on input line 425.
+(pdftex.def)             Requested size: 205.14438pt x 217.55956pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (6.11809pt too wide) in paragraph at lines 431--441
+\T1/qpl/m/n/12 may be con-tained in a macro-scopic ``line" in tex-ture im-age, 
+and a micro-structure
+ []
+
+[11 <./images/lbc_new.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
+
+ []
+
+[12 <./images/lbc02.png>]
+<images/ltp_code1.png, id=94, 669.2503pt x 191.9672pt>
+File: images/ltp_code1.png Graphic file (type png)
+<use images/ltp_code1.png>
+Package pdftex.def Info: images/ltp_code1.png  used on input line 464.
+(pdftex.def)             Requested size: 410.28877pt x 117.6915pt.
+<images/ltp_code2.png, id=95, 330.48468pt x 167.12437pt>
+File: images/ltp_code2.png Graphic file (type png)
+<use images/ltp_code2.png>
+Package pdftex.def Info: images/ltp_code2.png  used on input line 476.
+(pdftex.def)             Requested size: 410.28877pt x 207.48961pt.
+ [13 <./images/ltp_code1.png>]
+<images/clbp_frameWorkPaper.png, id=100, 806.26219pt x 152.06813pt>
+File: images/clbp_frameWorkPaper.png Graphic file (type png)
+<use images/clbp_frameWorkPaper.png>
+Package pdftex.def Info: images/clbp_frameWorkPaper.png  used on input line 495
+.
+(pdftex.def)             Requested size: 410.28877pt x 77.38432pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--502
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./images/ltp_code2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 518--522
+
+ []
+
+[15 <./images/clbp_frameWorkPaper.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 528--529
+
+ []
+
+
+Overfull \hbox (16.06998pt too wide) in paragraph at lines 531--535
+\T1/qpl/m/n/12 Sign(CLBC_S), CLBC-Magnitude(CLBC_M) and CLBC-Center(CLBC_C). Th
+ese
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--535
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
+
+ []
+
+
+Overfull \hbox (15.59802pt too wide) in paragraph at lines 589--590
+[]\T1/qpl/m/n/12 The $\OML/cmm/m/it/12 CLTP[]S[]$ \T1/qpl/m/n/12 is the con-cat
+e-na-tion of the $\OML/cmm/m/it/12 CLTP[]S[]$ \T1/qpl/m/n/12 and the $\OML/cmm/
+m/it/12 CLTP[]S[]$
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 621--622
+
+ []
+
+[18]
+<images/mbp.png, id=119, 328.22626pt x 121.95563pt>
+File: images/mbp.png Graphic file (type png)
+<use images/mbp.png>
+Package pdftex.def Info: images/mbp.png  used on input line 639.
+(pdftex.def)             Requested size: 328.23227pt x 121.95901pt.
+<images/ambp_ref.png, id=120, 302.63063pt x 361.35pt>
+File: images/ambp_ref.png Graphic file (type png)
+<use images/ambp_ref.png>
+Package pdftex.def Info: images/ambp_ref.png  used on input line 649.
+(pdftex.def)             Requested size: 164.11299pt x 195.95866pt.
+ [19 <./images/mbp.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
+
+ []
+
+
+Overfull \hbox (19.55481pt too wide) in paragraph at lines 665--665
+[]|[]$[]\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 ; []\OML/cmm/m/it/12 k[]\OT1/cmr/m/n/
+12 ; []\OML/cmm/m/it/12 L \U/matha/m/n/12  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--691
+
+ []
+
+[20 <./images/ambp_ref.png>] [21]
+Overfull \hbox (21.5588pt too wide) in paragraph at lines 706--706
+[]|[]$[] []\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 ; []\OML/cmm/m/it/12 k[]\OT1/cmr/m
+/n/12 ; []\OML/cmm/m/it/12 L \U/matha/m/n/12  
+ []
+
+[22]
+Overfull \vbox (6.8933pt too high) has occurred while \output is active []
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
+
+ []
+
+
+Overfull \hbox (23.71883pt too wide) in paragraph at lines 737--739
+\T1/qpl/m/n/12 growth(shape) & skin ag-ing (tex-ture) in-for-ma-tion. Ini-tiall
+y 3 states are considered-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--739
+
+ []
+
+<images/dapp_all.png, id=139, 630.10406pt x 329.73187pt>
+File: images/dapp_all.png Graphic file (type png)
+<use images/dapp_all.png>
+Package pdftex.def Info: images/dapp_all.png  used on input line 754.
+(pdftex.def)             Requested size: 410.28877pt x 214.70554pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+
+ []
+
+[24 <./images/dapp_all.png>]
+<images/dapp_code_generation.png, id=144, 310.15875pt x 289.08pt>
+File: images/dapp_code_generation.png Graphic file (type png)
+<use images/dapp_code_generation.png>
+Package pdftex.def Info: images/dapp_code_generation.png  used on input line 79
+4.
+(pdftex.def)             Requested size: 287.20088pt x 267.68152pt.
+ [25 <./images/dapp_code_generation.png>] [26]
+Overfull \hbox (13.8961pt too wide) in paragraph at lines 805--805
+|\T1/qpl/b/sc/20.74 Proposed Fea-ture De-scrip-tor: Adap-tive Ro-
+ []
+
+[27]
+<images/ARLCP_Framework.png, id=156, 842.39719pt x 341.02406pt>
+File: images/ARLCP_Framework.png Graphic file (type png)
+<use images/ARLCP_Framework.png>
+Package pdftex.def Info: images/ARLCP_Framework.png  used on input line 834.
+(pdftex.def)             Requested size: 341.43892pt x 138.22325pt.
+ [28 <./images/ARLCP_Framework.png>]
+<images/KirschMask.png, id=161, 769.4346pt x 468.3096pt>
+File: images/KirschMask.png Graphic file (type png)
+<use images/KirschMask.png>
+Package pdftex.def Info: images/KirschMask.png  used on input line 854.
+(pdftex.def)             Requested size: 287.20088pt x 174.80818pt.
+<images/apply_mask.png, id=162, 615.80063pt x 235.63031pt>
+File: images/apply_mask.png Graphic file (type png)
+<use images/apply_mask.png>
+Package pdftex.def Info: images/apply_mask.png  used on input line 863.
+(pdftex.def)             Requested size: 287.20088pt x 109.89774pt.
+ [29 <./images/KirschMask.png>]
+Overfull \hbox (2.2657pt too wide) in paragraph at lines 875--876
+[]\T1/qpl/m/n/12 if prim-i-tive sec-ondary edge re-sponse is a neigh-bor to pri
+-mary edge re-sponse,
+ []
+
+<images/primary_secondary_ER.png, id=166, 230.3004pt x 344.0052pt>
+File: images/primary_secondary_ER.png Graphic file (type png)
+<use images/primary_secondary_ER.png>
+Package pdftex.def Info: images/primary_secondary_ER.png  used on input line 88
+5.
+(pdftex.def)             Requested size: 164.11299pt x 245.13774pt.
+
+Overfull \hbox (1.1397pt too wide) in paragraph at lines 881--889
+[]\T1/qpl/m/n/12 Figure 3.4[] il-lus-trates the se-lec-tion of pri-mary and sec
+-ondary edge re-sponses. 
+ []
+
+[30 <./images/apply_mask.png>] [31 <./images/primary_secondary_ER.png>]
+<images/Cheek_Region.png, id=174, 2256.17906pt x 737.00343pt>
+File: images/Cheek_Region.png Graphic file (type png)
+<use images/Cheek_Region.png>
+Package pdftex.def Info: images/Cheek_Region.png  used on input line 906.
+(pdftex.def)             Requested size: 410.28877pt x 134.01563pt.
+<images/sign.png, id=175, 962.84718pt x 228.855pt>
+File: images/sign.png Graphic file (type png)
+<use images/sign.png>
+Package pdftex.def Info: images/sign.png  used on input line 927.
+(pdftex.def)             Requested size: 410.28877pt x 97.51874pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 933--934
+
+ []
+
+[32 <./images/Cheek_Region.png> <./images/sign.png>]
+<images/mag.png, id=179, 968.86969pt x 228.855pt>
+File: images/mag.png Graphic file (type png)
+<use images/mag.png>
+Package pdftex.def Info: images/mag.png  used on input line 944.
+(pdftex.def)             Requested size: 410.28877pt x 96.91463pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--951
+
+ []
+
+<images/dir.png, id=180, 695.59875pt x 548.80031pt>
+File: images/dir.png Graphic file (type png)
+<use images/dir.png>
+Package pdftex.def Info: images/dir.png  used on input line 959.
+(pdftex.def)             Requested size: 287.20088pt x 226.58388pt.
+[33 <./images/mag.png>]
+Overfull \hbox (3.1177pt too wide) in paragraph at lines 965--966
+[]\T1/qpl/m/n/12 Finally ARLCP Cen-ter (ARLCP_C) code is gen-er-ated thresh-old
+-ing the given
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+
+ []
+
+<images/center.png, id=184, 334.3692pt x 112.2594pt>
+File: images/center.png Graphic file (type png)
+<use images/center.png>
+Package pdftex.def Info: images/center.png  used on input line 975.
+(pdftex.def)             Requested size: 287.20088pt x 96.42984pt.
+<images/Code_generation.png, id=185, 1481.535pt x 902.6222pt>
+File: images/Code_generation.png Graphic file (type png)
+<use images/Code_generation.png>
+Package pdftex.def Info: images/Code_generation.png  used on input line 987.
+(pdftex.def)             Requested size: 410.28877pt x 249.96414pt.
+[34 <./images/dir.png> <./images/center.png>]
+Overfull \hbox (23.22292pt too wide) in paragraph at lines 995--996
+\T1/qpl/m/n/12 Histogram is gen-er-ated for each of the ARLCP_S, ARLCP_M, ARLCP
+_D, ARLCP_C
+ []
+
+[35 <./images/Code_generation.png>]
+<images/histogram_generation.png, id=194, 1237.62375pt x 538.26094pt>
+File: images/histogram_generation.png Graphic file (type png)
+<use images/histogram_generation.png>
+Package pdftex.def Info: images/histogram_generation.png  used on input line 10
+13.
+(pdftex.def)             Requested size: 369.25739pt x 160.5925pt.
+<images/Local_histogram.png, id=195, 526.24605pt x 486.3771pt>
+File: images/Local_histogram.png Graphic file (type png)
+<use images/Local_histogram.png>
+Package pdftex.def Info: images/Local_histogram.png  used on input line 1025.
+(pdftex.def)             Requested size: 205.14438pt x 189.60466pt.
+ [36 <./images/histogram_generation.png>]
+[37 <./images/Local_histogram.png>]
+<images/KNN.png, id=204, 406.51875pt x 347.2975pt>
+File: images/KNN.png Graphic file (type png)
+<use images/KNN.png>
+Package pdftex.def Info: images/KNN.png  used on input line 1054.
+(pdftex.def)             Requested size: 328.23227pt x 280.42444pt.
+ [38 <./images/KNN.png>] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1082
+
+ []
+
+<images/jaffe.png, id=212, 407.42819pt x 162.48624pt>
+File: images/jaffe.png Graphic file (type png)
+<use images/jaffe.png>
+Package pdftex.def Info: images/jaffe.png  used on input line 1085.
+(pdftex.def)             Requested size: 205.14438pt x 81.81316pt.
+<images/images_ck+.jpg, id=213, 337.26pt x 150.5625pt>
+File: images/images_ck+.jpg Graphic file (type jpg)
+<use images/images_ck+.jpg>
+Package pdftex.def Info: images/images_ck+.jpg  used on input line 1092.
+(pdftex.def)             Requested size: 205.14438pt x 91.58337pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/images_ravdess.png, id=214, 77.088pt x 74.9199pt>
+File: images/images_ravdess.png Graphic file (type png)
+<use images/images_ravdess.png>
+Package pdftex.def Info: images/images_ravdess.png  used on input line 1099.
+(pdftex.def)             Requested size: 205.14438pt x 199.39873pt.
+[40 <./images/jaffe.png>] [41 <./images/images_ck+.jpg> <./images/images_ravdes
+s.png>]
+Overfull \hbox (3.48286pt too wide) in paragraph at lines 1134--1135
+\T1/qpl/m/n/12 ple im-age for train-ing and some ex-pres-sions are la-beled in-
+cor-rectly or ex-pressed
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+
+ []
+
+<images/Picture4.png, id=226, 646.5756pt x 370.986pt>
+File: images/Picture4.png Graphic file (type png)
+<use images/Picture4.png>
+Package pdftex.def Info: images/Picture4.png  used on input line 1200.
+(pdftex.def)             Requested size: 410.28877pt x 235.41498pt.
+[43]
+<images/Picture5.png, id=230, 728.4816pt x 390.258pt>
+File: images/Picture5.png Graphic file (type png)
+<use images/Picture5.png>
+Package pdftex.def Info: images/Picture5.png  used on input line 1213.
+(pdftex.def)             Requested size: 410.28877pt x 219.79945pt.
+ [44 <./images/Picture4.png>]
+<images/a.png, id=235, 675.4836pt x 390.7398pt>
+File: images/a.png Graphic file (type png)
+<use images/a.png>
+Package pdftex.def Info: images/a.png  used on input line 1223.
+(pdftex.def)             Requested size: 410.28877pt x 237.33736pt.
+ [45 <./images/Picture5.png>] [46 <./images/a.png>] [47] [48] (Main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+\T1/qpl/m/n/12 times,'' https://economictimes.indiatimes.com/tech/software/how-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+\T1/qpl/m/n/12 image-processing-will-change-your-world-in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+\T1/qpl/m/n/12 Con-di-tions -,'' https://www.smithsonianmag.com/innovation/app-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+\T1/qpl/m/n/12 uses-facial-recognition-software-help-identify-genetic-condition
+s-
+ []
+
+[49] [50]
+Underfull \hbox (badness 1769) in paragraph at lines 121--124
+[]\T1/qpl/m/n/12 M. Z. Ud-din, J. J. Lee, and T. . Kim, ``An en-hanced in-de-pe
+n-dent
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 121--124
+\T1/qpl/m/n/12 component-based hu-man fa-cial ex-pres-sion recog-ni-tion from v
+ideo,''
+ []
+
+[51] [52] [53]) [54] (Main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6689 strings out of 492970
+ 93504 string characters out of 3135845
+ 368568 words of memory out of 3000000
+ 10397 multiletter control sequences out of 15000+200000
+ 67661 words of font info for 59 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,19n,40p,1378b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/tex-gyre/q-ec.enc} <C:\Users\Sha
+hriar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\mathabx\dpi720\mathb12.pk
+> <C:\Users\Shahriar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\mathabx\dp
+i720\mathx10.pk> <C:\Users\Shahriar\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\pu
+blic\mathabx\dpi600\matha8.pk> <C:\Users\Shahriar\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\public\mathabx\dpi600\matha12.pk>{C:/Program Files/MiKTeX 2.9/fonts
+/enc/dvips/tex-gyre/q-ec-sc.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/tex-gyre/qplb.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/tex-gyre/qplbi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/tex-gyre/qplr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/tex-gyre/qp
+lri.pfb>
+Output written on Main.pdf (63 pages, 4646006 bytes).
+PDF statistics:
+ 353 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+

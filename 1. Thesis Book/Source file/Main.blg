@@ -1,0 +1,29 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Main.aux
+The style file: IEEEtran.bst
+Database file #1: thesisbiblio.bib
+I was expecting a `,' or a `}'---line 133 of file thesisbiblio.bib
+ :  
+ :  jounal={}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in facs
+Warning--empty journal in facialPoints
+Name 1 in "H. Abdi, D. Valentin, B. Edelman, and A. O'Toole" has a comma at the end for entry moreAboutmanWoman
+while executing---line 2411 of file IEEEtran.bst
+Name 1 in "H. Abdi, D. Valentin, B. Edelman, and A. O’Toole" has a comma at the end for entry cPadgetts
+while executing---line 2411 of file IEEEtran.bst
+Name 1 in "T. Ahonen, A. Hadid, and M. Pietikainen" has a comma at the end for entry fcLBP
+while executing---line 2411 of file IEEEtran.bst
+Warning--empty journal in fiaLBP
+Name 1 in "T. Jabid, M. H. Kabir, and O. Chae" has a comma at the end for entry robustFace
+while executing---line 2411 of file IEEEtran.bst
+Warning--empty journal in robustFace
+Name 1 in "T. Ojala, M. Pietikäinen, and T. T. Mäenpää" has a comma at the end for entry lbp02
+while executing---line 2411 of file IEEEtran.bst
+Warning--empty journal in cltp01
+
+Done.
+(There were 6 error messages)

@@ -1,0 +1,4 @@
+\contentsline {table}{\numberline {4.1}{\ignorespaces Recognition rate (\%) for the JAFFE 7-class expression dataset.}}{42}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Recognition rate (\%) for the CK+ 7-class expression dataset.}}{43}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Confusion matrix for the CK+ 7 dataset -class recognition using ARLCP feature representation.}}{43}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Confusion matrix for the RAVDESS 8-class recognition using ARLCP feature representation with 10-fold cross validation}}{46}

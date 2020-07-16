@@ -1,0 +1,32 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Overview of a generic facial recognition System}}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Different facial expressions from - (a) CK+ dataset and (b) JAFFE dataset}}{3}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Circularly symmetric neighbor sets for different (P, R)}}{10}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The Basic LBP operator}}{10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Illustration of LBC (P = 8, R = 1)}}{11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic diagram of macroscopic textural structure that is quite different from the micro-structure.}}{12}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Illustration of the basic LTP operator}}{13}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of the basic LTP operator}}{14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Framework of CLBP}}{15}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces MBP operator for 3X3 patches}}{19}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Illustration of AMBP terminology}}{20}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces (a). Straight wrinkle (b) Curved Wrinkle (c) Eye corner (d) Flat patch}}{24}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces (a). Sample image patch and its Kirsch responses. (b) Age-Primitive code computation (c) Adaptive Thresholding (d) Final DAPP computation}}{25}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ARLCP Framework}}{28}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Kirsch Mask}}{29}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Edge Responses}}{30}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Primary and Secondary Edge Response Selection}}{31}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Cheek Region}}{32}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces ARLCP\_S generation}}{32}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces ARLCP\_M generation}}{33}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ARLCP$_D$ generation}}{34}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces ARLCP\_C generation}}{34}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces ARLCP codes generation}}{35}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Histogram Generation}}{36}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Local Histograms Concatenation}}{37}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces KNN Classification}}{38}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces JAFFE Database}}{40}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces CK+ Database}}{41}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Ravdess Database}}{41}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Recognition rate (\%) for the CK+ 7-class dataset corrupted with noise}}{44}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Recognition rate (\%) for the CK+ 7-class dataset with different resolutions}}{45}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Recognition Rate(\%) for Different Regions (CK+ Dataset)}}{46}

@@ -1,0 +1,51 @@
+\contentsline {section}{Abstract}{i}
+\contentsline {section}{Acknowledgement}{ii}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Digital Image Processing in Facial Feature Extraction}{1}
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{2}
+\contentsline {subsection}{\numberline {1.3}Research Challenges}{3}
+\contentsline {subsubsection}{\numberline {1.3.1}Variations in illumination, pose, alignment}{3}
+\contentsline {subsubsection}{\numberline {1.3.2}Occlusion}{4}
+\contentsline {subsubsection}{\numberline {1.3.3}Aging}{4}
+\contentsline {subsection}{\numberline {1.4}Objectives}{4}
+\contentsline {subsection}{\numberline {1.5}Contribution}{4}
+\contentsline {subsection}{\numberline {1.6}Organization of the Thesis}{5}
+\contentsline {section}{\numberline {2}Literature Review}{6}
+\contentsline {subsection}{\numberline {2.1}Facial Feature Representation Methods}{6}
+\contentsline {subsubsection}{\numberline {2.1.1}Geometric feature-based methods}{6}
+\contentsline {subsubsection}{\numberline {2.1.2}Appearance Based Methods}{7}
+\contentsline {subsection}{\numberline {2.2}Local Texture Operators}{8}
+\contentsline {subsection}{\numberline {2.3}Basic Patterns:}{9}
+\contentsline {subsubsection}{\numberline {2.3.1}Local Binary Pattern(LBP)}{9}
+\contentsline {subsubsection}{\numberline {2.3.2}Local Binary Count}{11}
+\contentsline {subsubsection}{\numberline {2.3.3}Local Ternary Pattern :}{13}
+\contentsline {subsection}{\numberline {2.4}Complete Patterns:}{14}
+\contentsline {subsubsection}{\numberline {2.4.1}Complete Local Binary Pattern:}{14}
+\contentsline {subsubsection}{\numberline {2.4.2}Complete Local Binary Count(CLBC)}{16}
+\contentsline {subsubsection}{\numberline {2.4.3}Complete Local Ternary Pattern(CLTP)}{17}
+\contentsline {subsection}{\numberline {2.5}Adaptive Patterns}{19}
+\contentsline {subsubsection}{\numberline {2.5.1} Adaptive Median Binary Pattern(AMBP)}{19}
+\contentsline {subsubsection}{\numberline {2.5.2}Adaptive Robust Binary Pattern(ARBP)}{20}
+\contentsline {subsubsection}{\numberline {2.5.3}Directional Age Primitive Pattern(DAPP)}{24}
+\contentsline {section}{\numberline {3} Proposed Feature Descriptor: Adaptive Robust Local Complete Pattern (ARLCP)}{27}
+\contentsline {subsection}{\numberline {3.1} Overview }{27}
+\contentsline {subsection}{\numberline {3.2}Adaptive Robust Local Complete Pattern (ARLCP) Code}{27}
+\contentsline {subsection}{\numberline {3.3}The Basic ARLCP Encoding Scheme}{28}
+\contentsline {subsubsection}{\numberline {3.3.1}Step 1: Edge Response Computation }{29}
+\contentsline {subsubsection}{\numberline {3.3.2}Step 2: Primary and secondary edge response selection}{30}
+\contentsline {subsubsection}{\numberline {3.3.3}Step 3: Threshold($\sigma $) generation}{31}
+\contentsline {subsubsection}{\numberline {3.3.4}Step 4: Sign, Magnitude, Direction and Center codes generation}{32}
+\contentsline {subsubsection}{\numberline {3.3.5}Step 5: Histograms of Sign, Magnitude, Direction and Center codes generation}{36}
+\contentsline {subsection}{\numberline {3.4}Facial Feature Representation with ARLCP}{36}
+\contentsline {subsection}{\numberline {3.5}Expression Recognition using KNN Classifier}{37}
+\contentsline {subsection}{\numberline {3.6}Strengths of the Proposed Descriptor}{39}
+\contentsline {section}{\numberline {4}Experimental Result}{40}
+\contentsline {subsection}{\numberline {4.1}Experimental Setup and Dataset Description}{40}
+\contentsline {subsection}{\numberline {4.2}Performance Evaluation}{41}
+\contentsline {subsection}{\numberline {4.3}Performance on JAFFE Database}{42}
+\contentsline {subsection}{\numberline {4.4}Performance on CK+ Database}{42}
+\contentsline {subsection}{\numberline {4.5}Performance on RAVDESS Database}{46}
+\contentsline {section}{\numberline {5}Conclusion}{47}
+\contentsline {subsection}{\numberline {5.1}Research Summary}{47}
+\contentsline {subsection}{\numberline {5.2}Future Works }{48}
+\contentsline {section}{References}{49}
