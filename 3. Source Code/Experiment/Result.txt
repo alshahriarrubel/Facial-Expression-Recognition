@@ -1,0 +1,15 @@
+
+15-Nov-2018 03:29:57
+---------------------------
+KNN
+---------------------------
+Value of K for KNN: 1
+Method: Proposed Method (median_edge_res)
+Dataset: JAFFE
+Region: 10x10
+Max Axxuracy: 100.000000
+Min Accuracy: 82.608696
+Avg Accuracy: 92.712215
+5 fold
+
+
