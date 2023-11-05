@@ -1,1 +1,1 @@
-# Facial-Expression-Recognition
+# Facial Expression Recognition using Adaptive Robust Local Complete Pattern (ARLCP)
